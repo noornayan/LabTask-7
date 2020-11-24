@@ -1,0 +1,14 @@
+D:\C#\Final Lab 1\main\main\obj\Debug\main.csprojAssemblyReference.cache
+D:\C#\Final Lab 1\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+D:\C#\Final Lab 1\main\main\bin\Debug\main.exe.config
+D:\C#\Final Lab 1\main\main\bin\Debug\main.exe
+D:\C#\Final Lab 1\main\main\bin\Debug\main.pdb
+D:\C#\Final Lab 1\main\main\obj\Debug\main.exe
+D:\C#\Final Lab 1\main\main\obj\Debug\main.pdb
+C:\Users\User\Downloads\Compressed\Final-LAB-1-master\main\main\bin\Debug\main.exe.config
+C:\Users\User\Downloads\Compressed\Final-LAB-1-master\main\main\bin\Debug\main.exe
+C:\Users\User\Downloads\Compressed\Final-LAB-1-master\main\main\bin\Debug\main.pdb
+C:\Users\User\Downloads\Compressed\Final-LAB-1-master\main\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\Final-LAB-1-master\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\Final-LAB-1-master\main\main\obj\Debug\main.exe
+C:\Users\User\Downloads\Compressed\Final-LAB-1-master\main\main\obj\Debug\main.pdb
